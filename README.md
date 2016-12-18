@@ -1,6 +1,9 @@
 SwitchDoc Labs October, 2016
 
-Restructured for software distribution 
+Restructured for software distribution <BR>
+Library functions added for reading VIS/IR in Lux with Dark Offset applied <BR>
+Gain and Range changed for showing indoor ranges
+
 
 To setup:
 git clone https://github.com/adafruit/Adafruit_Python_PureIO.git
