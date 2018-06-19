@@ -1,8 +1,11 @@
+
+
 SwitchDoc Labs October, 2016
 
-Restructured for software distribution <BR>
-Library functions added for reading VIS/IR in Lux with Dark Offset applied <BR>
-Gain and Range changed for showing indoor ranges
+Revised June 2018:  Changed to Outdoor default gains.  Adjusted VIS/IR in Lux values to roughly agree with sunlight
+
+Original:  Restructured for software distribution <BR>
+Original:  Library functions added for reading VIS/IR in Lux with Dark Offset applied <BR>
 
 
 To setup:
